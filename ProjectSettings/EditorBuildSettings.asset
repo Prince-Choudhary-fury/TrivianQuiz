@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Geography 1.unity
+    guid: 0b7ff5c802ca5874db11fa59248b90dd
+  - enabled: 1
+    path: Assets/Scenes/Entertainment.unity
+    guid: 7486918ec5e923c4783600e36f71a2c3
+  - enabled: 1
+    path: Assets/Scenes/History.unity
+    guid: db3dd26a56fab9f4abc4d430dbe23461
+  - enabled: 1
+    path: Assets/Scenes/ArtAndLeterature.unity
+    guid: 1cc59c0221af7ed49a164758db67a800
+  - enabled: 1
+    path: Assets/Scenes/ScienceAndNature.unity
+    guid: 7143250d601e6b846a56f85d3f7a572c
+  - enabled: 1
+    path: Assets/Scenes/Sports.unity
+    guid: a5daee989c990dd4abe0763e09cbcf0e
+  - enabled: 1
+    path: Assets/Scenes/Songs.unity
+    guid: 6829750260f131748906e002d269c9b5
+  - enabled: 1
+    path: Assets/Scenes/Movies.unity
+    guid: 74e0b7ba8c351324bb35c334c4023890
+  - enabled: 1
+    path: Assets/Scenes/Football.unity
+    guid: 28b54ca5df2368847aee725b166cf954
+  - enabled: 1
+    path: Assets/Scenes/Challange.unity
+    guid: 45b05a3074a1d1248b2be528888c47e6
+  m_configObjects: {}
